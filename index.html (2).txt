@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Book Issue Form</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h2>Library Book Issue Form</h2>
+
+<form>
+    Name: <input type="text"><br><br>
+    USN: <input type="text"><br><br>
+    Book Name: <input type="text"><br><br>
+    Author: <input type="text"><br><br>
+    Issue Date: <input type="date"><br><br>
+    Return Date: <input type="date"><br><br>
+
+    <input type="submit" value="Submit">
+</form>
+
+</body>
+</html>
